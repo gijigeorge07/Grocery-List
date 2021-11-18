@@ -1,0 +1,38 @@
+body {
+  background-image: url(./image.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+
+@media only screen and (max-width: 767px) {
+  body {
+    background-image: url(./image.jpg);
+  }
+}
+
+.hide-me {
+  display: none;
+}
+#banner-content {
+  position: relative;
+  padding-top: 2%;
+  padding-bottom: 2%;
+
+  background-color: rgba(0, 0, 0, 0.7);
+  max-width: 660px;
+  margin: auto;
+}
+.action {
+  margin-bottom: 15px;
+  text-align: center;
+}
+.modal-title {
+  text-align: center;
+  padding-left: 190px;
+}
+.btn-list {
+  font-size: 20px;
+}

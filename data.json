@@ -1,0 +1,82 @@
+[
+  {
+    "Serial_Number": 1,
+    "Name": "Onion",
+    "Quantity": "2",
+    "Unit": "kg",
+    "Department": " Vegetables",
+    "Notes": "Fresh Vegetables"
+  },
+  {
+    "Serial_Number": 2,
+    "Name": "Tomato",
+    "Quantity": "1",
+    "Unit": "kg",
+    "Department": "Vegetables",
+    "Notes": "Fresh Vegetables"
+  },
+  {
+    "Serial_Number": 3,
+    "Name": "Milk",
+    "Quantity": "2",
+    "Unit": "litre",
+    "Department": "Diary ",
+    "Notes": "Almarai"
+  },
+  {
+    "Serial_Number": 4,
+    "Name": "Egg",
+    "Quantity": "24",
+    "Unit": "No's",
+    "Department": "Diary",
+    "Notes": "Farm Fresh"
+  },
+  {
+    "Serial_Number": 5,
+    "Name": "Rice",
+    "Quantity": "25",
+    "Unit": "Kg",
+    "Department": "Cereals",
+    "Notes": "Matta Rice"
+  },
+  {
+    "Serial_Number": 6,
+    "Name": "Coconut oil",
+    "Quantity": "2",
+    "Unit": "Litre",
+    "Department": "Sauces & oils",
+    "Notes": "Kera oils"
+  },
+  {
+    "Serial_Number": 7,
+    "Name": "Brocoli",
+    "Quantity": "1",
+    "Unit": "kg",
+    "Department": "Vegetables",
+    "Notes": "Fresh vegetables"
+  },
+  {
+    "Serial_Number": 8,
+    "Name": "Sugar",
+    "Quantity": "1",
+    "Unit": "kg",
+    "Department": "Condiments",
+    "Notes": "Sadia"
+  },
+  {
+    "Serial_Number": 9,
+    "Name": "Tea",
+    "Quantity": "1",
+    "Unit": "kg",
+    "Department": "Beverages",
+    "Notes": "AVT"
+  },
+  {
+    "Serial_Number": 10,
+    "Name": "Chicken",
+    "Quantity": "1",
+    "Unit": "kg",
+    "Department": "Meat",
+    "Notes": "Saudia"
+  }
+]
